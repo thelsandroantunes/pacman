@@ -1,0 +1,4 @@
+https://sourceforge.net/projects/mingw-w64/ 
+
+http://www.codeblocks.org/downloads
+
